@@ -5,54 +5,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introducción</title>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
     <link rel="stylesheet" href="introduccion.css">
 </head>
 
 <body>
-    <h1>mi primer sitio web</h1>
-    
-    <div>
-        <p>hola como estas</p>
-        <a href="https://campus.open-bootcamp.com/cursos/12/leccion/1918">este es un enlace a </a>
-    </div>
 
-    <div>
-        <h3>listas</h3>
-        <div>
-            <h4>listas ordenadas</h4>
-            <ol>
-                <li>orden 1</li>
-                <li>orden 2</li>
-                <li>orden 3</li>
-                <li>orden 4</li>
-            </ol>
+<!-- Este es mi primer comentario de dos líneas -->
+<!-- Aprendiendo a documentar mi código con OpenBootcamp -->
 
-        </div>
-
-        <h4>listas desordenadas</h4>
-        <div>
+     <div>
             <ul>
-                <li>orden 1</li>
-                <li>orden 2</li>
-                <li>orden 3</li>
-                <li>orden 4</li>
+                <li> <a href="https://www.youtube.com/watch?v=wIhbfYLAovo">Balada para adeline</a></li>
+                <li> <a href="https://www.youtube.com/watch?v=AyiOpcPDmfM">Piedra del peñol</a></li>
+                <li> <a href="https://www.youtube.com/watch?v=Exm1y3qMfMk">Salto de red bull</a></li>
+            
             </ul>
         </div>
 
-    </div>
+
+
     
-
-
-
-
-
-</div>
-
-
-
-
-    <script src="introduccion.js"></script>
 </body>
 
 
