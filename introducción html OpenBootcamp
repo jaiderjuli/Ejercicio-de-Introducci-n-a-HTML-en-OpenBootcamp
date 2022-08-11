@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducción</title>
+    <link rel="stylesheet" href="introduccion.css">
+</head>
+
+<body>
+    <h1>mi primer sitio web</h1>
+    
+    <div>
+        <p>hola como estas</p>
+        <a href="https://campus.open-bootcamp.com/cursos/12/leccion/1918">este es un enlace a </a>
+    </div>
+
+    <div>
+        <h3>listas</h3>
+        <div>
+            <h4>listas ordenadas</h4>
+            <ol>
+                <li>orden 1</li>
+                <li>orden 2</li>
+                <li>orden 3</li>
+                <li>orden 4</li>
+            </ol>
+
+        </div>
+
+        <h4>listas desordenadas</h4>
+        <div>
+            <ul>
+                <li>orden 1</li>
+                <li>orden 2</li>
+                <li>orden 3</li>
+                <li>orden 4</li>
+            </ul>
+        </div>
+
+    </div>
+    
+
+
+
+
+
+</div>
+
+
+
+
+    <script src="introduccion.js"></script>
+</body>
+
+
+
+</html>
